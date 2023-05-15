@@ -4,6 +4,8 @@ Dashboard and Reports for different data sets using POWER BI
 
 Sales_Data_2019
 
-Blah Blah Blah
+Target
+A target market analysis is an assessment of how your product or service fits
+into a specific market and where it will gain the most.
 
 
